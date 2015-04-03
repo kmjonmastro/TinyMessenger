@@ -12,23 +12,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyMessenger.Pcl", "TinyMessenger.Pcl\TinyMessenger.Pcl.csproj", "{791D7583-1495-466A-83CA-84E846917832}"
+EndProject
 Global
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = TinyMessenger.vsmdi
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DE0CA005-3B06-4751-9429-9671E7916492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE0CA005-3B06-4751-9429-9671E7916492}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE0CA005-3B06-4751-9429-9671E7916492}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE0CA005-3B06-4751-9429-9671E7916492}.Release|Any CPU.Build.0 = Release|Any CPU
 		{40D73D7C-262F-40C9-86F4-15DCB55B2946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{40D73D7C-262F-40C9-86F4-15DCB55B2946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D73D7C-262F-40C9-86F4-15DCB55B2946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D73D7C-262F-40C9-86F4-15DCB55B2946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791D7583-1495-466A-83CA-84E846917832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791D7583-1495-466A-83CA-84E846917832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791D7583-1495-466A-83CA-84E846917832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791D7583-1495-466A-83CA-84E846917832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0CA005-3B06-4751-9429-9671E7916492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0CA005-3B06-4751-9429-9671E7916492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0CA005-3B06-4751-9429-9671E7916492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0CA005-3B06-4751-9429-9671E7916492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TinyMessenger.vsmdi
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

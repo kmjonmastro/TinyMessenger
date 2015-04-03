@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="TinyMessenger/TinyMessenger.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TinyMessenger.Pcl/TinyMessenger.cs">
+    <Files>
+      <File FileName="TinyMessenger/TinyMessenger.cs" Line="782" Column="2" />
+      <File FileName="TinyMessenger.Pcl/TinyMessenger.cs" Line="780" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../MobileCore/src/Core/Mobile.Odyssey/SAL/LoginProxy.cs" line="84" offsetX="631" offsetY="1245" expression="request" liveUpdate="False" />
+    <Watch file="../../../MobileCore/src/Core/Mobile.Odyssey/BL/Managers/UserManager.cs" line="28" offsetX="580" offsetY="405" expression="response" liveUpdate="False" />
+    <Watch file="../../../MobileCore/src/Core/Mobile.Odyssey/BL/Managers/UserManager.cs" line="37" offsetX="739" offsetY="540" expression="test" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
